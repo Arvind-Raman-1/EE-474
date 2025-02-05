@@ -1,3 +1,11 @@
+//FILENAME Task2.cpp
+//Authors: Arvind Raman, Aadithya Manoj
+// 2/04/2025
+//this file compares the use of digital write to the use of direct register access for blinking an LED
+
+
+
+
 #include "Task2.h"
 #include <Arduino.h>
 #include "driver/gpio.h"
