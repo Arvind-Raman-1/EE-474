@@ -1,4 +1,7 @@
-
+//FILENAME Task2B.h
+//Authors: Arvind Raman, Aadithya Manoj
+// 2/04/2025
+//this file is the header file for task2B
 //============================================macros============================================
 #define GPIO_PIN 5 // Pin D2
 #define TIMER_DIVIDER_VALUE 80 //make it 1Mhz

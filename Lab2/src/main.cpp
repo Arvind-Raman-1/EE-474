@@ -11,7 +11,7 @@
 #include "Task2.h"
 #include "Task3.h"
 
-
+//call the corresponding setup function
 void setup() {
   
   setupTask1();

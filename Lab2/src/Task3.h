@@ -1,3 +1,10 @@
+//FILENAME Task3.h
+//Authors: Arvind Raman, Aadithya Manoj
+// 2/04/2025
+//this file is the header file for task3
+
+
+
 #ifndef TASK3_H
 #define TASK3_H
 
