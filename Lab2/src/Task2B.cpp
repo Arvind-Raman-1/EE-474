@@ -12,7 +12,7 @@
 #include "soc/gpio_periph.h"
 #include <soc/timer_group_reg.h>
 
-
+static uint32_t last_toggle_time = 0;
 
 void Task2B_setup(){
     PIN_FUNC_SELECT(GPIO_PIN_MUX_REG[GPIO_PIN], PIN_FUNC_GPIO);

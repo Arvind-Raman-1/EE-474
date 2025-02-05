@@ -5,7 +5,7 @@
 #define TIMER_INCREMENT_MODE (1<<30) //set the timer to increment mode
 #define TIMER_ENABLE (1<<31) //Enable timer bit
 #define LED_TOGGLE_INTERVAL 1000000 // LED toggle interval: 1 second for a 1Mhz clock
-static uint32_t last_toggle_time = 0;
+
 
 //============================================Functoin Definitions============================================
 
