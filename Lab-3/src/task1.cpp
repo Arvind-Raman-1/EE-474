@@ -9,7 +9,6 @@
 
 LiquidCrystal_I2C lcd(LCD_ADDR, 16, 2);
 
-
 #define BACKLIGHT 0x08
 
 static void pulseEnable(uint8_t data);
